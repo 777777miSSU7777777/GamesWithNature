@@ -1,0 +1,3 @@
+LAPLACE = 1
+SAVAGE = 2
+HURWITZ = 3
